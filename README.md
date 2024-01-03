@@ -1,0 +1,1 @@
+An attempt to create a subject choice web app for Rugby School (and practice using GitHub at the same time)
